@@ -1,2 +1,2 @@
 # a1-cost-tracker
-a1-cost-tracker Agentic AI, IEC
+Assignment1 two providers cost tracker using python and first Agentic AI, IEC
