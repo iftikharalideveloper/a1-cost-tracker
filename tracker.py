@@ -7,6 +7,13 @@ from dotenv import load_dotenv
 from google import genai
 from groq import Groq
 
+
+
+
+
+
+
+
 # Load environment variables
 load_dotenv()
 
@@ -16,8 +23,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Check if API keys are available
 if not GEMINI_API_KEY:
-    print("Error: GEMINI_API_KEY is missing from .env")
-        sys.exit(1)
+    sys.exit("Error: GEMINI_API_KEY is missing from .env")
 
         if not GROQ_API_KEY:
             print("Error: GROQ_API_KEY is missing from .env")
