@@ -258,3 +258,17 @@ This project demonstrates the fundamentals of:
 **Repository:** [https://github.com/iftikharalideveloper/a1-cost-tracker](https://github.com/iftikharalideveloper/a1-cost-tracker)
 
 **Assignment:** Assignment 1 — Two Provider Cost Tracker
+
+# Author
+
+Author: Iftikhar Ali
+
+Email: iftikharali.developer@gmail.com
+
+GitHub: iftikharalideveloper
+
+Project: Assignment 1 — Two Provider Cost Tracker
+
+Repository: https://github.com/iftikharalideveloper/a1-cost-tracker
+
+Assignment: Assignment 1 — Two Provider Cost Tracker
