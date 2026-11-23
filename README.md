@@ -112,7 +112,6 @@ The configured prices are in USD per one million tokens.
 | Gemini   | $0.75 / 1M tokens | $3.75 / 1M tokens |
 | Groq     | $0.15 / 1M tokens | $0.60 / 1M tokens |
 
-These are the pricing values configured in the application. Actual charges may depend on provider pricing, model, and free-tier eligibility.
 
 ## Example Test Result
 
@@ -157,7 +156,6 @@ Each successful provider result contains:
 - `cost_usd`
 - `seconds`
 
-The JSON file is overwritten with the latest successful run.
 
 ## Development Process & Implementation History
 
