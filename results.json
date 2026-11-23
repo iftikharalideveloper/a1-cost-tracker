@@ -1,0 +1,13 @@
+[
+    {
+        "provider": "groq",
+        "model": "openai/gpt-oss-120b",
+        "reply": "**Agentic AI** – an artificial‑intelligence system designed to act autonomously toward its own goals or objectives, making decisions, planning, and taking actions without direct human instruction for each step. It exhibits self‑directed agency, often through goal‑oriented optimization, self‑learning, and the ability to influence its environment to achieve its defined outcomes.",
+        "input_tokens": 77,
+        "output_tokens": 129,
+        "input_price_per_m": 0.15,
+        "output_price_per_m": 0.6,
+        "cost_usd": 8.895e-05,
+        "seconds": 1.335
+    }
+]
