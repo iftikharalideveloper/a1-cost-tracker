@@ -84,6 +84,8 @@ def call_groq(prompt):
 
     input_tokens = usage.prompt_tokens
     output_tokens = usage.completion_tokens
+    if input_tokens is None or output_tokens is None:
+        raise RuntimeError("Groq token counts are missing.")
 
     return reply, input_tokens, output_tokens, elapsed
 

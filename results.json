@@ -1,13 +1,24 @@
 [
     {
+        "provider": "gemini",
+        "model": "gemini-3.6-flash",
+        "reply": "**Agentic AI** is artificial intelligence that can independently plan, make decisions, and take action to achieve a specific goal without needing step-by-step human guidance.",
+        "input_tokens": 10,
+        "output_tokens": 34,
+        "input_price_per_m": 0.75,
+        "output_price_per_m": 3.75,
+        "cost_usd": 0.000135,
+        "seconds": 6.886
+    },
+    {
         "provider": "groq",
         "model": "openai/gpt-oss-120b",
-        "reply": "**Agentic AI** – an artificial‑intelligence system designed to act autonomously toward its own goals or objectives, making decisions, planning, and taking actions without direct human instruction for each step. It exhibits self‑directed agency, often through goal‑oriented optimization, self‑learning, and the ability to influence its environment to achieve its defined outcomes.",
-        "input_tokens": 77,
-        "output_tokens": 129,
+        "reply": "Agentic AI is an artificial intelligence system that can autonomously make decisions and take actions to achieve its own defined goals.",
+        "input_tokens": 80,
+        "output_tokens": 64,
         "input_price_per_m": 0.15,
         "output_price_per_m": 0.6,
-        "cost_usd": 8.895e-05,
-        "seconds": 1.335
+        "cost_usd": 5.04e-05,
+        "seconds": 0.788
     }
 ]
